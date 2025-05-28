@@ -9,7 +9,7 @@ that I had assembled and modified myself to partake in a Car Football competitio
 ## What does it do?
 
 As aforementioned, this vehicle is designed to be controlled precisely and comfortably to play Car Football.
-Some of a distinct modification I had made to my vehicle would be a swiveling plow at the front, which aids in
+Some of the distinct modifications I had made to my vehicle would be a swiveling plow at the front, which aids in
 precision during dribbling, allowing the operator to tilt the plow to the left or the right using a servo controller
 to keep the ball away from other oppononents. I have also opted for a gyroscopic controller design setup which enables
 the operator to utilise a wider array of functions using the movements of their hand in comparison to traditional button
